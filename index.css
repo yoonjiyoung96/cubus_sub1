@@ -261,12 +261,13 @@ overflow: hidden;
 .card2 .img2, .card1 .img1{
     overflow: hidden;
 }
+/*
 .card2:hover img, .card1:hover img{
     transform: scale(1.2, 1.2);
 }
 .img2 img, .img1 img{
     transition: all 1.5s;
-}
+}*/
 /*테두리 효과*/
 .year_img{position:relative;
 display:inline-block;}
